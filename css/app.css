@@ -1,0 +1,18 @@
+.collection-header {
+  background: #2979FF !important;
+  color: #fff; }
+
+#items li {
+  font-weight: 400;
+  font-size: 16px; }
+  #items li span {
+    font-weight: 600; }
+
+.fa-instagram {
+  padding: 0 10px; }
+
+.fa-facebook-square {
+  padding: 0 10px; }
+
+.fa-github {
+  padding: 0 10px; }
